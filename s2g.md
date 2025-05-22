@@ -3,6 +3,7 @@ Until I had several ministrokes I was coding in C++, Perl, CSS, etc...
 I’m looking to collaborate on how to redo coding C++
 📫 How to reach me: jb023067@gmail.com
 ⚡ Fun fact: love humor of all kinds unless I find it inappropriate upon which I will let you know
+Apparently I didn't know that I could change the name from readme to my initials or something else
 <!---
 scar2gordon/scar2gordon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
